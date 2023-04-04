@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T10:24:23.961Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="7hMCiZ4wWD2sfl7CYTLz" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T10:26:27.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="rHVhmGUyGrbxcIFXKCmu" version="21.1.4" type="github">
   <diagram id="4OnkQuiGUajiTFqm5Er3" name="Page-1">
-    <mxGraphModel dx="1606" dy="1488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2362" dy="1876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -601,11 +601,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mXWuJuIeZDy16dcTsGSH-246" value="data_formulir_lamaran" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mXWuJuIeZDy16dcTsGSH-250" edge="1">
-          <mxGeometry x="0.3243" y="20" relative="1" as="geometry">
+        <mxCell id="mXWuJuIeZDy16dcTsGSH-246" value="data_formulir_lamaran" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.709;entryY=-0.021;entryDx=0;entryDy=0;exitX=0.952;exitY=0.716;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="mXWuJuIeZDy16dcTsGSH-250" edge="1" target="mXWuJuIeZDy16dcTsGSH-255">
+          <mxGeometry x="0.1145" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="450" y="980" />
-              <mxPoint x="450" y="1010" />
+              <mxPoint x="430" y="974" />
+              <mxPoint x="430" y="990" />
+              <mxPoint x="630" y="990" />
+              <mxPoint x="630" y="1049" />
             </Array>
             <mxPoint x="550" y="1010" as="targetPoint" />
             <mxPoint as="offset" />
@@ -664,17 +666,17 @@
           <mxGeometry x="-210" y="1180" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mXWuJuIeZDy16dcTsGSH-254" value="data_formulir_lamaran" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="mXWuJuIeZDy16dcTsGSH-255" target="mXWuJuIeZDy16dcTsGSH-250" edge="1">
-          <mxGeometry x="-0.2087" relative="1" as="geometry">
+          <mxGeometry x="-0.0593" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="1030" />
-              <mxPoint x="440" y="998" />
-              <mxPoint x="397" y="998" />
+              <mxPoint x="610" y="1010" />
+              <mxPoint x="420" y="1010" />
+              <mxPoint x="420" y="987" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mXWuJuIeZDy16dcTsGSH-255" value="Formulir Lamaran" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;" parent="1" vertex="1">
-          <mxGeometry x="550" y="1000" width="100" height="34" as="geometry" />
+          <mxGeometry x="560" y="1050" width="100" height="34" as="geometry" />
         </mxCell>
         <mxCell id="mXWuJuIeZDy16dcTsGSH-256" value="data_biodata_lamaran" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.008;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="mXWuJuIeZDy16dcTsGSH-257" target="mXWuJuIeZDy16dcTsGSH-250" edge="1">
           <mxGeometry x="-0.0032" relative="1" as="geometry">
