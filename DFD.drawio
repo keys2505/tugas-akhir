@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T11:17:42.573Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="knDMQRcWCVHTGFjdeb3P" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-05T11:25:42.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="lMwc6L5Jc1wS5bu7yLN-" version="21.1.4" type="github">
   <diagram id="4OnkQuiGUajiTFqm5Er3" name="Page-1">
-    <mxGraphModel dx="2225" dy="1805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1930" dy="1580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -869,70 +869,56 @@
         <mxCell id="Xu1_IdZIosPe5Sg-yrdp-17" value="PELAMAR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="1850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xu1_IdZIosPe5Sg-yrdp-18" value="data_lowongan" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Xu1_IdZIosPe5Sg-yrdp-19" target="Xu1_IdZIosPe5Sg-yrdp-24" edge="1">
+        <mxCell id="Xu1_IdZIosPe5Sg-yrdp-18" value="data_lowongan" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Xu1_IdZIosPe5Sg-yrdp-21" target="Xu1_IdZIosPe5Sg-yrdp-24" edge="1">
           <mxGeometry x="-0.0772" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Xu1_IdZIosPe5Sg-yrdp-29" value="data_lowongan" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Xu1_IdZIosPe5Sg-yrdp-19" target="Xu1_IdZIosPe5Sg-yrdp-26" edge="1">
-          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="339.9999692212882" y="2645.0526315789475" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="180" y="2660" />
-              <mxPoint x="180" y="2660" />
+              <mxPoint x="305" y="2650" />
+              <mxPoint x="440" y="2650" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xu1_IdZIosPe5Sg-yrdp-19" value="&lt;div&gt;P.2.2&lt;/div&gt;&lt;div&gt;Edit&lt;/div&gt;&lt;div&gt;Lowongan&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="250" y="2600" width="90" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="Xu1_IdZIosPe5Sg-yrdp-20" value="data lowongan" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Xu1_IdZIosPe5Sg-yrdp-21" target="Xu1_IdZIosPe5Sg-yrdp-24" edge="1">
-          <mxGeometry x="0.2513" y="10" relative="1" as="geometry">
+        <mxCell id="Xu1_IdZIosPe5Sg-yrdp-20" value="data lowongan" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Xu1_IdZIosPe5Sg-yrdp-21" target="Xu1_IdZIosPe5Sg-yrdp-24" edge="1">
+          <mxGeometry x="-0.2176" relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="310" y="2540" />
+              <mxPoint x="310" y="2520" />
               <mxPoint x="470" y="2520" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xu1_IdZIosPe5Sg-yrdp-21" value="&lt;div&gt;P.2.1&lt;/div&gt;&lt;div&gt;Input&lt;/div&gt;&lt;div&gt;&amp;nbsp;Lowongan&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="250" y="2470" width="90" height="90" as="geometry" />
+        <mxCell id="Xu1_IdZIosPe5Sg-yrdp-21" value="&lt;div&gt;P.2.1&lt;/div&gt;&lt;div&gt;Kelola Data&lt;/div&gt;&lt;div&gt;&amp;nbsp;Lowongan&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="260" y="2540" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Xu1_IdZIosPe5Sg-yrdp-22" value="data lowongan" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Xu1_IdZIosPe5Sg-yrdp-24" target="Xu1_IdZIosPe5Sg-yrdp-19" edge="1">
-          <mxGeometry x="0.1648" relative="1" as="geometry">
-            <mxPoint x="340" y="2660" as="targetPoint" />
+        <mxCell id="JrkFLyY5OP9mjvez78dB-7" value="info_data_lowongan" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xu1_IdZIosPe5Sg-yrdp-24" target="Xu1_IdZIosPe5Sg-yrdp-35">
+          <mxGeometry x="0.0969" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="500" y="2670" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Xu1_IdZIosPe5Sg-yrdp-23" value="data lowongan" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Xu1_IdZIosPe5Sg-yrdp-24" target="Xu1_IdZIosPe5Sg-yrdp-21" edge="1">
-          <mxGeometry x="0.0349" y="-10" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="500" y="2500" />
+              <mxPoint x="470" y="2745" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xu1_IdZIosPe5Sg-yrdp-24" value="Lowongan" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;" parent="1" vertex="1">
-          <mxGeometry x="420" y="2550" width="100" height="30" as="geometry" />
+          <mxGeometry x="420" y="2680" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Xu1_IdZIosPe5Sg-yrdp-25" value="data_lowongan" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Xu1_IdZIosPe5Sg-yrdp-26" target="Xu1_IdZIosPe5Sg-yrdp-19" edge="1">
-          <mxGeometry x="0.0769" relative="1" as="geometry">
+        <mxCell id="Xu1_IdZIosPe5Sg-yrdp-25" value="data_lowongan" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Xu1_IdZIosPe5Sg-yrdp-26" target="Xu1_IdZIosPe5Sg-yrdp-21" edge="1">
+          <mxGeometry x="-0.1844" relative="1" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="220" y="2630" />
-              <mxPoint x="220" y="2630" />
+              <mxPoint x="295" y="2650" />
             </Array>
+            <mxPoint x="252.5735931288068" y="2630.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xu1_IdZIosPe5Sg-yrdp-26" value="PETUGAS SDM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="2615" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xu1_IdZIosPe5Sg-yrdp-27" value="data lowongan" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Xu1_IdZIosPe5Sg-yrdp-28" target="Xu1_IdZIosPe5Sg-yrdp-21" edge="1">
-          <mxGeometry x="-0.0789" y="10" relative="1" as="geometry">
+        <mxCell id="Xu1_IdZIosPe5Sg-yrdp-27" value="data_lowongan" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Xu1_IdZIosPe5Sg-yrdp-28" target="Xu1_IdZIosPe5Sg-yrdp-21" edge="1">
+          <mxGeometry x="-0.1176" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="200" y="2520" />
-              <mxPoint x="200" y="2520" />
+              <mxPoint x="300" y="2520" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -941,7 +927,7 @@
           <mxGeometry y="2490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xu1_IdZIosPe5Sg-yrdp-30" value="PELAMAR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="2895" width="120" height="60" as="geometry" />
+          <mxGeometry y="2730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xu1_IdZIosPe5Sg-yrdp-32" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;info_data_user&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="JrkFLyY5OP9mjvez78dB-1" target="Xu1_IdZIosPe5Sg-yrdp-17" edge="1">
           <mxGeometry x="-0.1909" relative="1" as="geometry">
@@ -962,11 +948,39 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xu1_IdZIosPe5Sg-yrdp-34" value="&lt;div&gt;P.2.2&lt;/div&gt;&lt;div&gt;Delete&lt;/div&gt;&lt;div&gt;Lowongan&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="240" y="2740" width="90" height="90" as="geometry" />
+        <mxCell id="JrkFLyY5OP9mjvez78dB-8" value="Info_data_lowongan" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xu1_IdZIosPe5Sg-yrdp-35" target="Xu1_IdZIosPe5Sg-yrdp-28">
+          <mxGeometry x="-0.1821" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-20" y="2710" />
+              <mxPoint x="-20" y="2520" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Xu1_IdZIosPe5Sg-yrdp-35" value="&lt;div&gt;P.2.2&lt;/div&gt;&lt;div&gt;Melihat Info&lt;/div&gt;&lt;div&gt;Lowongan&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="230" y="2880" width="90" height="90" as="geometry" />
+        <mxCell id="JrkFLyY5OP9mjvez78dB-9" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Info_data_lowongan&lt;/span&gt;&lt;br&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xu1_IdZIosPe5Sg-yrdp-35" target="Xu1_IdZIosPe5Sg-yrdp-26">
+          <mxGeometry x="-0.25" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="305" y="2690" />
+              <mxPoint x="60" y="2690" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrkFLyY5OP9mjvez78dB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xu1_IdZIosPe5Sg-yrdp-35" target="Xu1_IdZIosPe5Sg-yrdp-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="2760" />
+              <mxPoint x="230" y="2760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrkFLyY5OP9mjvez78dB-12" value="Info_data_lowongan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JrkFLyY5OP9mjvez78dB-11">
+          <mxGeometry x="0.2139" y="-1" relative="1" as="geometry">
+            <mxPoint x="25" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xu1_IdZIosPe5Sg-yrdp-35" value="&lt;div&gt;P.2.2&lt;/div&gt;&lt;div&gt;Tampil Info&lt;/div&gt;&lt;div&gt;Lowongan&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="260" y="2710" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="JrkFLyY5OP9mjvez78dB-1" value="&lt;div&gt;P.1.2&lt;/div&gt;&lt;div&gt;Tampil Login Pelamar&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="250" y="1890" width="90" height="90" as="geometry" />
