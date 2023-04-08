@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-08T13:40:00.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="P1hfBGFz2X3BZ15Ry44H" version="21.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-08T14:34:19.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="gZ5UxA5FmKkNr_X3rn3h" version="21.1.4" type="github" pages="3">
   <diagram id="MUiD6LLzSHCa95WENLsC" name="STRACH">
-    <mxGraphModel dx="2362" dy="1876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2362" dy="1772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1811,7 +1811,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ERD" id="5rldeUAp6qXQukKJ36Bw">
-    <mxGraphModel dx="889" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="889" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1998,6 +1998,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sFsaluJnn86CshCe7l9v" name="KONSEPTUAL">
+    <mxGraphModel dx="756" dy="336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
