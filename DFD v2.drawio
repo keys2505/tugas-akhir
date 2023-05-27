@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T16:37:01.409Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ZPlxr6H5NVMErh0GwcFk" version="21.3.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-05-27T16:52:37.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="tM3537hJM22MlPV9Jdaw" version="21.3.4" type="github" pages="7">
   <diagram id="QJFoFRdLA_wdQQ7BlMZT" name="DIAGRAM CONTEXT">
     <mxGraphModel dx="1235" dy="1668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -267,7 +267,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sZfbujww4pzj3RsvAfMi-15" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;SISTEM REKRUTMEN KARYAWAN&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="sZfbujww4pzj3RsvAfMi-15" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;SISTEM REKRUTMEN KARYAWAN&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;fontStyle=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="340" y="140" width="270" height="270" as="geometry" />
         </mxCell>
         <mxCell id="fC17IahmPfZGLitMR9zW-1" value="data_lowongan" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=11;" edge="1" parent="1" source="sZfbujww4pzj3RsvAfMi-22" target="sZfbujww4pzj3RsvAfMi-15">
