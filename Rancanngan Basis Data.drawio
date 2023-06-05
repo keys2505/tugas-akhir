@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-05T11:34:33.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="uTFrsnbuYF2zA9qi70G7" version="21.3.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-06-05T11:34:41.503Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Oz3NLgLBSdYZQTPaLpCH" version="21.3.7" type="github" pages="5">
   <diagram id="MUiD6LLzSHCa95WENLsC" name="STRACH">
     <mxGraphModel dx="1730" dy="1487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3741,7 +3741,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ERD v2" id="6Pm88iJVaCVEfhDaa7gP">
-    <mxGraphModel dx="1080" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2107" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="2F-o4VFWxtOVt7O166bv-0" />
         <mxCell id="2F-o4VFWxtOVt7O166bv-1" parent="2F-o4VFWxtOVt7O166bv-0" />
@@ -3907,6 +3907,16 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="150" as="sourcePoint" />
             <mxPoint x="340" y="210" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNeoxKHHrs9dyljAl89Q-0" value="tb_langganan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2F-o4VFWxtOVt7O166bv-1">
+          <mxGeometry x="-110" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNeoxKHHrs9dyljAl89Q-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=ERzeroToMany;endFill=0;startArrow=ERmandOne;startFill=0;" edge="1" parent="2F-o4VFWxtOVt7O166bv-1" target="GNeoxKHHrs9dyljAl89Q-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="110" as="sourcePoint" />
+            <mxPoint x="240" y="50" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
